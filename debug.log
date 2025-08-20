@@ -1,0 +1,11 @@
+[2025-08-18/ 10:06:27.852:INFO:browser_app_win.cc(301)] filePath to delete: NVIDIA App\UpdateFramework\status\nvapp\nvAppUpdate.json
+[2025-08-18/ 10:06:27.855:WARNING:browser_app_win.cc(527)] Unable to read protocol whitelist from registry, status 2
+[2025-08-18/ 10:06:33.026:INFO:shadowplay_wrapper.cpp(143)] Initialize shadowplay2 success
+[2025-08-18/ 10:06:33.321:WARNING:browser_app_win.cc(496)] GPU acceleration is possible
+[2025-08-18/ 10:06:33.333:WARNING:browser_app_win.cc(527)] Unable to read protocol whitelist from registry, status 2
+[2025-08-18/ 10:09:31.087:INFO:browser_app_win.cc(301)] filePath to delete: NVIDIA App\UpdateFramework\status\nvapp\nvAppUpdate.json
+[2025-08-18/ 10:09:31.090:WARNING:browser_app_win.cc(527)] Unable to read protocol whitelist from registry, status 2
+[2025-08-18/ 10:11:38.669:INFO:browser_app_win.cc(301)] filePath to delete: NVIDIA App\UpdateFramework\status\nvapp\nvAppUpdate.json
+[2025-08-18/ 10:11:38.672:WARNING:browser_app_win.cc(527)] Unable to read protocol whitelist from registry, status 2
+[2025-08-18/ 10:17:55.625:INFO:browser_app_win.cc(301)] filePath to delete: NVIDIA App\UpdateFramework\status\nvapp\nvAppUpdate.json
+[2025-08-18/ 10:17:55.627:WARNING:browser_app_win.cc(527)] Unable to read protocol whitelist from registry, status 2
